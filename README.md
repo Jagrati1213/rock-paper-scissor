@@ -1,12 +1,17 @@
 # JS Rock Paper Scissor Game
-It was a Bot vs human game .
+It was a Bot vs human game.\
 *Devloyed [link](https://Jagrati1213.github.io/rock-paper-scissor)*
 ## Used language
 - HTML 
 - CSS
 - Javascript
-### FrameWork
+## FrameWork
 - Bootstrap
+## Learnt
+- if-else
+- Events
+- ForEach
+- Math Methods
 ##
 I learnt how to target values and also Known about Math function 
 ## Project Gallery
