@@ -1,6 +1,6 @@
 # JS Rock Paper Scissor Game
 It was a Bot vs human game .
-*You Can check out the [FrintArt](https://Jagrati1213.github.io/rock-paper-scissor)*
+*Devloyed [link](https://Jagrati1213.github.io/rock-paper-scissor)*
 ## Used language
 - HTML 
 - CSS
