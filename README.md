@@ -8,7 +8,7 @@ It was a Bot vs human game .
 ### FrameWork
 - Bootstrap
 ##
-**I learnt how to target values and also Known about Math function **
+I learnt how to target values and also Known about Math function 
 ## Project Gallery
 ![Screenshot (534)](https://user-images.githubusercontent.com/85276293/196021551-7e3d18f5-f7e1-4526-885c-9d26feca6f7e.png)
 
