@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet"href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet"href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="shortcut icon" href="./Images/favicon.png" type="image/png" />
+    <title>JS - Rock Paper Scissor</title>
+  </head>
+  <body>
+     <header>
+      <h1> JS- Rock Paper Scissors</h1>
+     </header>
+     <main>
+      <!-- Score Board -->
+      <div class="score-board">
+        <div class="userscore">USER</div>
+        <span id="userScoreVal">0</span> : <span id="compScoreVal">0</span>
+        <div class="compscore">COMP</div>
+      </div>
+
+      <!-- Result Board -->
+      <div class="result">
+        <p>User: <span id="result-user-stat"></span></p>
+        <p>Computer: <span id="result-comp-stat"></span></p>
+        <p class="winner">Winner: <span id="result-final-stat"></span></p>
+      </div>
+
+      <!-- Choice Board -->
+      <div class="choices">
+        <div class="choice" id="rock">
+          <img src="./Images/rock.png" alt="rock" />
+        </div>
+        <div class="choice" id="paper">
+          <img src="./Images/paper.png" alt="paper" />
+        </div>
+        <div class="choice" id="scissor">
+          <img src="./Images/scissors.png" alt="scissors" />
+        </div>
+      </div>
+     </main>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <!-- main JS -->
+    <script src="./js/main.js"></script>
+  </body>
+</html>
